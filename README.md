@@ -1,3 +1,6 @@
+https://zach.se/project-euler-solutions/6/
+weekends
+
 [![Build Status](https://travis-ci.org/DestructHub/ProjectEuler.svg?branch=master)](https://travis-ci.org/DestructHub/ProjectEuler)
 
 [![Telegram Chat](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.me/destructhub)
